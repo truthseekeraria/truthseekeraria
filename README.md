@@ -26,3 +26,5 @@
 	- Crosscode
 	- Bug Fables
 	- Ultrakill
+ 	- Terraria
+  	- Minecraft
