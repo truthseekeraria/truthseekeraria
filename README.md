@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>
-		Hello!!! :D
+		Hello!!! ^w^
 	</h2>
  	<a href="https://modrinth.com/user/truthseekeraria">
  		<img src="https://img.shields.io/badge/Modrinth-181825?style=for-the-badge&logo=modrinth"/>
@@ -15,16 +15,18 @@
 
 <div align="center">
 	<h2>
-		about me :D
+		about me :33
 	</h2>
 </div>
 
-- i like playing videogames, listening to music, making games, and being silly :3
+- game designer with the weird keyboard autism :333
+- i like playing videogames, listening to music, and being silly :333
 - some of my favourite games are:
 	- Outer Wilds
+	- Bug Fables
 	- Hollow Knight
 	- Crosscode
-	- Bug Fables
 	- Ultrakill
  	- Terraria
   	- Minecraft
+- there is a frog spinning in my brain weeeeee :333
