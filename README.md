@@ -1,32 +1,28 @@
-<div align="center">
-	<h2>
-		Hello!!! ^w^
-	</h2>
- 	<a href="https://modrinth.com/user/truthseekeraria">
- 		<img src="https://img.shields.io/badge/Modrinth-181825?style=for-the-badge&logo=modrinth"/>
-	</a>
-	<a href="https://en.pronouns.page/@truthseekeraria">
-		<img src="https://img.shields.io/badge/pronouns.page-181825?style=for-the-badge&logo=pronounsdotpage&logoColor=c71585"/>
-	</a>
-	<a href="https://truthseekeraria.itch.io/">
-		<img src="https://img.shields.io/badge/itch.io-181825?style=for-the-badge&logo=itchdotio"/>
-	</a>
-</div>
+## Hello :3
 
-<div align="center">
-	<h2>
-		about me :33
-	</h2>
-</div>
+### Links
+[![Codeberg](https://img.shields.io/badge/Codeberg-181825?style=for-the-badge&logo=codeberg)](https://codeberg.org/starlightaria)
+[![Modrinth](https://img.shields.io/badge/Modrinth-181825?style=for-the-badge&logo=modrinth)](https://modrinth.com/user/truthseekeraria)
+[![Pronouns.page](https://img.shields.io/badge/pronouns.page-181825?style=for-the-badge&logo=pronounsdotpage&logoColor=c71585)](https://en.pronouns.page/@truthseekeraria)
+[![Itch.io](https://img.shields.io/badge/itch.io-181825?style=for-the-badge&logo=itchdotio)](https://truthseekeraria.itch.io/)
+[![Oryx](https://img.shields.io/badge/Oryx-181825?style=for-the-badge&logoColor=ffaa00&logo=johndeere)](https://configure.zsa.io/moonlander/layouts/mEYR3/latest/0)
 
-- game designer with the weird keyboard autism :333
-- i like playing videogames, listening to music, and being silly :333
-- some of my favourite games are:
-	- Outer Wilds
-	- Bug Fables
-	- Hollow Knight
-	- Crosscode
-	- Ultrakill
- 	- Terraria
-  	- Minecraft
-- there is a frog spinning in my brain weeeeee :333
+### Tools I Use
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
+[![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](https://wezterm.org/)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
+[![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAEqUlEQVR4nO3dsWpbVwCA4UaxK0/ZBH2ZvEamLs2QloDXjI3SMWsgtB7cpZNfwy8TyAtUiKhdI2EKhyOsqP/3bdfo6B6E7s/Rta7uk+8e2fXrN4d/Ws8839+fP7+dGQ8zrlard5NPsf5648PH95NPN2bxqHsDvikCAGECAGECAGECAGECAGECAGECAGECAGECAGECAGEXowMe+C7/kN12u7e9uLycej44Z4fHw+zxNXotgRUAhAkAhAkAhA2fA3jAeuTBh5/5Z6/nv7m7nRkOU169eDn1/r1arWansJ4ZbAUAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYcPXAnzZbPa2ny6XR5sMMObweBxlBQBhAgBhAgBhT0YH/PzjL3vbu83mn5kJuJ6fslcvXk6NXyyXe8fwH3/9PjZ+au/AWRMACBMACBv+HsBu8v+OwPHMHo9WABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABA2fG9A9s3e3/3m7vZIMzlPXr/TsgKAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAsItTT+Dc3dzdnnoKZ83rd1pWABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABB2ceoJ/Prhz6nxv13/dKSZwLjZ9++pWQFAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABA2Ml/D2DWuV+PDadkBQBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhw9cCLJbLve3dZnO0yQBjDo/H4fFHmgdwhgQAwgQAwobPATw9+Mzx/bNn72Ym8On+/u3M+B+eP58ZDlM+3d9Pjb9araaOny+T5+CsACBMACBMACBs+hwAcDqzx6MVAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQNXwvwgPXIg3fb7d721Wo1tfPZ3xOAGbPX8++22/XX24vLy6n5jLICgDABgDABgLDhcwAfPr6f2uH16zdT4+H/5PAz/+zxNbz/R90b8E0RAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg7xu8BzFqPPPjwfuiL5XJv/G7yfunwXxYH9+I7fD+e270zrQAgTAAgTAAAAAAAAAAAAAAAAADgTPwLO0ppOmcZt/MAAAAASUVORK5CYII=)](https://www.aseprite.org/)
+[![Glide-Browser](https://img.shields.io/badge/Glide-9350A1.svg?logo=data:image/png;base64,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)](https://glide-browser.app/)
+
+### About Me
+- I like game design and interesting magic systems :3 (especially Hunter x Hunter's nen system)
+- Waiting for the day split ergonomic keyboards become mainstream
+- I make the vibeo game
+- Neovim user who likes fancy TUIs a lot ([MOCP](https://moc.daper.net/) is peak...)
+- IDK what else to put here
+
+### Frog
+There is a frog spinning in my brain weeeeee ^w^
+
+![frog](https://media.tenor.com/tS4120QBuugAAAAi/frog-spin-frog.gif)
